@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393067160475",
+    "project_id": "gaming-modul-ab",
+    "storage_bucket": "gaming-modul-ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393067160475:android:f4df0f5538fb090549773e",
+        "android_client_info": {
+          "package_name": "com.Ernest.MyProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393067160475-mop3tspu4avigtetokh6p4b9859qibo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASlbOHHjrA1lY3sAmxNotSuUjQEHjx4gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393067160475-mop3tspu4avigtetokh6p4b9859qibo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
